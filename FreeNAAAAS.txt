@@ -1,0 +1,7 @@
+FreeNAS
+FreeNAS is an open source sharing software whre major files are shared in an online platform for others to view and access. It was created on 2005 alongside TrueNAS. It is licensed by BSD License and has an encryption of 256-bit.
+
+Key Features:
+Encryption:
+Snapshots and Replication:
+File Sharing
